@@ -19,8 +19,8 @@
 ## 🚀 Hướng dẫn sử dụng
 
 1. Clone repository về máy
-2. Chạy `Basic_EDA.ipynb` để hiểu dữ liệu
-3. Chạy `training.ipynb` để huấn luyện mô hình
+2. Chạy `Basic_EDA.ipynb` để hiểu dữ liệu một cách cơ bản
+3. Chạy `training.ipynb` để huấn luyện mô hình, đặt đường dẫn tới file `sales.csv` vào `sales_path` và nhấn run cell duy nhất để trả về kết quả dự đoán.
 4. Xem kết quả phân tích tại `predictive.ipynb` và `prescriptive.ipynb`
 5. Kết quả dự đoán cuối cùng nằm trong `submission.csv`
 
