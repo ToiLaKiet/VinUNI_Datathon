@@ -1,6 +1,6 @@
 # 🏆 VinUniversity Datathon 2026 — Submission
 
-> **Team submission** cho cuộc thi **Datathon** tổ chức bởi VinUniversity năm 2026.
+> **BizAIytics submission** cho cuộc thi **Datathon** tổ chức bởi VinUniversity năm 2026.
 
 ---
 
@@ -18,7 +18,6 @@
 | 💡 `prescriptive.ipynb` | Phân tích **Prescriptive Analytics** |
 | 📄 `submission.csv` | File kết quả submission chính thức |
 ---
-
 ## 🚀 Hướng dẫn sử dụng
 
 1. Clone repository về máy
@@ -26,11 +25,11 @@
 3. Chạy `training.ipynb` để huấn luyện mô hình, đặt đường dẫn tới file `sales.csv` vào `sales_path` và nhấn run cell duy nhất để trả về kết quả dự đoán.
 4. Xem kết quả phân tích tại `predictive.ipynb` và `prescriptive.ipynb`
 5. Kết quả dự đoán cuối cùng nằm trong `submission.csv`
-
 ---
 
 *Made with ❤️ for VinUniversity Datathon 2026*
 ----
-| **BizAIytics Team** |
----
+**BizAIytics Team** 
+
+
 ***Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
