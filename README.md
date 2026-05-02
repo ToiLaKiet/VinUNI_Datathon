@@ -5,7 +5,11 @@
 ---
 
 ## 📁 Cấu trúc thư mục
-
+### Các thư mục nháp 
+- scrap_notebooks: Thư mục chứa các notebook thử nghiệm và khám phá
+### Báo cáo
+- VinUniversity_Datathon_Submission.pdf: File PDF báo cáo kỳ thi
+### Các file nộp bài chính
 | File | Mô tả |
 |------|-------|
 | 📊 `Basic_EDA.ipynb` | Phân tích khám phá dữ liệu (EDA) cơ bản về bộ dữ liệu |
@@ -13,8 +17,6 @@
 | 🔮 `predictive.ipynb` | Phân tích **Predictive Analytics** |
 | 💡 `prescriptive.ipynb` | Phân tích **Prescriptive Analytics** |
 | 📄 `submission.csv` | File kết quả submission chính thức |
-| 🗂️ `scrap_notebooks` | Thư mục chứa các notebook thử nghiệm và khám phá |
-| 📝 `VinUniversity_Datathon_Submission.pdf` | File PDF báo cáo kỳ thi |
 ---
 
 ## 🚀 Hướng dẫn sử dụng
@@ -28,3 +30,5 @@
 ---
 
 *Made with ❤️ for VinUniversity Datathon 2026*
+**BizAIytics Team**
+***Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
