@@ -13,7 +13,7 @@
 | File | Mô tả |
 |------|-------|
 | 📊 `Basic_EDA.ipynb` | Phân tích khám phá dữ liệu (EDA) cơ bản về bộ dữ liệu |
-| 🤖 `training.ipynb` | Pipeline dự đoán **Revenue** & **COGS** đạt kết quả tốt nhất |
+| 🤖 `training.ipynb` | Pipeline dự đoán **Revenue** đạt kết quả tốt nhất |
 | 🔮 `predictive.ipynb` | Phân tích **Predictive Analytics** |
 | 💡 `prescriptive.ipynb` | Phân tích **Prescriptive Analytics** |
 | 📄 `submission.csv` | File kết quả submission chính thức |
