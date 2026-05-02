@@ -30,5 +30,7 @@
 ---
 
 *Made with ❤️ for VinUniversity Datathon 2026*
-**BizAIytics Team**
-***Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
+----
+| **BizAIytics Team** |
+---
+***|Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
