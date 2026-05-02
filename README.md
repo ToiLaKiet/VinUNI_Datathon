@@ -33,4 +33,4 @@
 ----
 | **BizAIytics Team** |
 ---
-***|Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
+***Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
