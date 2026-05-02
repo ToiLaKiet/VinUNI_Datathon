@@ -1,6 +1,6 @@
 # 🏆 VinUniversity Datathon 2026 — Submission
 
-> **BizAIytics submission** cho cuộc thi **Datathon** tổ chức bởi VinUniversity năm 2026.
+> **BizAIytix submission** cho cuộc thi **Datathon** tổ chức bởi VinUniversity năm 2026.
 
 ---
 
@@ -29,7 +29,7 @@
 
 *Made with ❤️ for VinUniversity Datathon 2026*
 ----
-**BizAIytics Team** 
+**BizAIytix Team** 
 
 
 ***Vo Anh Kiet, Tran Huy Hoang Anh, Lai Xuan Mai, Tran Thi Thanh Nga***
