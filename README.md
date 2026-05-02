@@ -13,7 +13,8 @@
 | 🔮 `predictive.ipynb` | Phân tích **Predictive Analytics** |
 | 💡 `prescriptive.ipynb` | Phân tích **Prescriptive Analytics** |
 | 📄 `submission.csv` | File kết quả submission chính thức |
-
+| 🗂️ `scrap_notebooks` | Thư mục chứa các notebook thử nghiệm và khám phá |
+| 📝 `VinUniversity_Datathon_Submission.pdf` | File PDF báo cáo kỳ thi |
 ---
 
 ## 🚀 Hướng dẫn sử dụng
